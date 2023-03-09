@@ -72,6 +72,7 @@ public class Main {
             System.out.println("Месяц " + i + " , сумма накоплений равна " + total + " рублей");
         }
     }
+
     public static void task10() {
         System.out.println("Задача 10");
         int o = 2;
